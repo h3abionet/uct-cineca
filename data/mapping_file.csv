@@ -1,0 +1,37 @@
+Variable,Ontology ID
+STUDY,NCIT:C83082
+UNIQUE SPEC ID,NCIT:C115528
+PARTICIPANT ID,NCIT:C69258
+Date of sample collection,NCIT:C81286
+Age at baseline,NCIT:C25150
+Units for Age,
+Sex,NCIT:C28421
+Ethno-linguistic tribal affiliation,NCIT:C16564
+Country of residence,NCIT:C25273
+Height,NCIT:C25347
+Height.Unit,
+Weight,NCIT:C25208
+BMI,NCIT:C16358
+Smoking,NCIT:C29719
+Alcohol,NCIT:C81229
+Substance Use,
+Blood Pressure / Hypertension,NCIT:C54706
+Diabetes,
+Cardiovascular Disease,NCIT:C2931
+Tuberculosis,
+HIV Status,
+Stroke,
+Kidney Disease,
+Educational Status,NCIT:C16529
+Diet ,NCIT:C28294
+Cancer,NCIT:C8278
+Asthma,NCIT:C26871
+Disease,NCIT:C15220
+Consent Code,NCIT:C16735
+Taxonomy?,
+Number  of aliquots,
+Experiment,
+Technology,NCIT:C153598
+File type,
+Study accession id,
+Data set accession id
