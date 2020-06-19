@@ -27,7 +27,7 @@ RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86
 
 RUN conda update conda && \
     conda clean --all --yes && \
-    conda install -y -c bioconda python=3.7 pytest pandas==0.25.3 numpy==1.16.4 scipy==1.3.0 tqdm==4.32.1
+    conda install -y -c bioconda bcftools python=3.7 pytest pandas==0.25.3 numpy==1.16.4 scipy==1.3.0 tqdm==4.32.1
 
 ## Tidy up
 RUN rm -rf /tmp/*
