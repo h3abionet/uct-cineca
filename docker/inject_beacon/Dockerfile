@@ -27,7 +27,7 @@ RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86
 
 RUN conda update conda && \
     conda clean --all --yes && \
-    conda install -y python=3 psycopg2==2.8.4 python-dateutil==2.8.1 PyVCF==0.6.8
+    conda install -y -c bioconda python=3 psycopg2==2.8.4 python-dateutil==2.8.1 PyVCF==0.6.8
 
 
 ## Tidy up
